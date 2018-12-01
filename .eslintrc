@@ -1,0 +1,17 @@
+{
+    "extends": "spatie",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "globals": {
+        "$": true,
+        "jQuery": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017
+    },
+    "plugins": [
+        "vue"
+    ]
+}
